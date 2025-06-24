@@ -1,0 +1,25 @@
+
+    .hero {
+      background-image: url('https://source.unsplash.com/1600x600/?food,dish');
+      background-size: cover;
+      background-position: center;
+      height: 600px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 4rem;
+    }
+    .footer {
+      background: #333;
+      color: #fff;
+      padding: 20px;
+    }
+    .footer a {
+      color: #fff;
+      margin-left: 10px;
+    }
+
