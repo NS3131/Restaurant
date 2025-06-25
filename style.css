@@ -23,3 +23,20 @@
       margin-left: 10px;
     }
 
+/* jumbotron */
+    .jumbotron-image {
+      background: url('./pictures/pexels-diego-cancino-467067322-32689263.jpg') no-repeat center center;
+      background-size: cover;
+      height: 400px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .jumbotron-overlay {
+      background-color: rgba(0, 0, 0, 0.5); /* semi-transparent overlay */
+      padding: 2rem;
+      border-radius: 10px;
+    }
